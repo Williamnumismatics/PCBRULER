@@ -7,5 +7,4 @@
  
  On the underside, I put my github link and my name and year i created this and also useful formulas and conversions to easily see when doing electronic projects in the future. Then i added a nutritional guideline table because i thought it was funny :) I also added a second QR code which leads to rick roll :)) All in all this is a very useful ruler for me as lots of my references are on here in one thing that i can easily carry around. 
  
-
- 
+On the top side, there is a 30cm ruler and some useful things those useful things include smd references, and for fun the first 100 digits of pi. THe underside has a qr code to my github and also some useful formulas.
