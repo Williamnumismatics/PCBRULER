@@ -12,3 +12,10 @@ created pcb and started on the silkscreen this is a starter project that is used
 ![Screenshot_20251024_211935.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2MywicHVyIjoiYmxvYl9pZCJ9fQ==--024094d7bda08fa9f5e3bd99357838f8924e9260/Screenshot_20251024_211935.png)
   
 
+## 10/25/2025 - Finished  
+
+Finished :) done all the silkscreen and now ready to ship L) its a ruler with important info for hackers like me its cool and its my first project for blueprint
+![Screenshot_20251025_131355.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--51e5e80810c4a7ac817b6562bb8d302ae356feae/Screenshot_20251025_131355.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6fbd1199750da3cf2f9bc888815ca6b2c50071fa/image.png)
+  
+
