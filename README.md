@@ -15,3 +15,6 @@ On the top side, there is a 30cm ruler and some useful things those useful thing
 |------|---------|-----|-------------|
 | PCB | 5 | [Link](https://cart.jlcpcb.com/quote?orderType=1&homeUploadNum=6f552ba165f94ad8b5276539fe3203e9&businessType=example&fileName=PCB.zipA) | 9.81 |
 
+![Screenshot of project](SCREENSHOT.png)
+
+
