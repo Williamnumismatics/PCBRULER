@@ -19,3 +19,9 @@ Finished :) done all the silkscreen and now ready to ship L) its a ruler with im
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6fbd1199750da3cf2f9bc888815ca6b2c50071fa/image.png)
   
 
+## 10/26/2025 - REcieved Feedback  
+
+The reviewer said i have to make it better so i want to embed a rp2040/2350 and overall make it better than ever I will now make it better :) good luck to me!
+![Screenshot_20251026_204943](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3NywicHVyIjoiYmxvYl9pZCJ9fQ==--5963ffb64328e629bc9e53786d461aa3b0d114ea/Screenshot_20251026_204943.png)
+  
+
