@@ -9,6 +9,10 @@
  
 On the top side, there is a 30cm ruler and some useful things those useful things include smd references, and for fun the first 100 digits of pi. THe underside has a qr code to my github and also some useful formulas.
 
+###Update
+
+
+
 ### Bill of Materials (BOM)
 
 | Item | Quantity | URL | Price (USD) |
