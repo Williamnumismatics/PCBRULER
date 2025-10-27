@@ -9,6 +9,11 @@
  
 On the top side, there is a 30cm ruler and some useful things those useful things include smd references, and for fun the first 100 digits of pi. THe underside has a qr code to my github and also some useful formulas.
 
+### Update
+The reviewer has said that i have to add some more usefulness to my ruler so i am going to add a rp2040 board and cascillated holes as pins. I am going to build in some rgbs, a oled and some bottons to chose which program to run. I might add a battery to it. So far i have done most of the schematic for the rp2040
+
+
+
 ### Bill of Materials (BOM)
 
 | Item | Quantity | URL | Price (USD) |
