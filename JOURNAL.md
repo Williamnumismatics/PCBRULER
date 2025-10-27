@@ -30,3 +30,8 @@ The reviewer said i have to make it better so i want to embed a rp2040/2350 and 
 I am using the make ur dev board tutorial i have done most of the things all that is left are the pinouts and the acually layout of the pico i am wondering if i can have two usbs one usb female and one usb male![Screenshot_20251026_214310](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c68cb9a4891251b87ed12b1769fe045405b7a291/Screenshot_20251026_214310.png)
   
 
+## 10/27/2025 - Deleted most of my work :(  
+
+I just relised i could put a normal rasberry pi pico 2w instead of making my own. Did waste some time but i am happy that i realised it cause it saved me a headache of soldering later down the line.![Screenshot_20251027_190341](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwMywicHVyIjoiYmxvYl9pZCJ9fQ==--1309ebfdd592523297aac84b05e344d6a6ff852c/Screenshot_20251027_190341.png)
+  
+
